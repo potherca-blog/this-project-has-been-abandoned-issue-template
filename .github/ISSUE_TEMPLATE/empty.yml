@@ -1,0 +1,20 @@
+---
+name: |
+  This repository has been abandoned.
+  The project lives on at https://github.com/PHPCSStandards/PHP_CodeSniffer
+
+description: |
+  See https://github.com/squizlabs/PHP_CodeSniffer/issues/3932 for more information.
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## This repository has been abandoned.
+        The project lives on at https://github.com/PHPCSStandards/PHP_CodeSniffer
+        See https://github.com/squizlabs/PHP_CodeSniffer/issues/3932 for more information.
+  - type: dropdown
+    attributes:
+      label: ❤️
+      options:
+        - " "
